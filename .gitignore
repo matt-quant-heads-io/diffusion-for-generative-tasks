@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+diffusion_model_100.pt
+diffusion_model_latest.pt
+models/
+lsun_bedroom
+output/*
+datasets/*
+.idea
+
