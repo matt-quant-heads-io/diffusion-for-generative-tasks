@@ -7,6 +7,17 @@ ZELDA_TILES_MAP = {"g": "door",
              "w": "solid",
              ".": "empty"}
 
+ZELDA_CHAR_TO_INT_MAP = {
+    ".": 0,
+    "w": 1,
+    "A": 2,
+    "+": 3,
+    "g": 4,
+    "1": 5,
+    "3": 6,
+    "2": 7
+}
+
 ZELDA_INT_MAP = {
     "empty": 0,
     "solid": 1,
